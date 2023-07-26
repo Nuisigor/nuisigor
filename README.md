@@ -1,7 +1,7 @@
 
 
 ## 👋 Hello World! Meu nome é Igor
-👨🏻‍💻 Aluno do 6º período de Ciência da Computação da UTFPR/CM.<br>
+👨🏻‍💻 Aluno do 7º período de Ciência da Computação da UTFPR/CM.<br>
 🐍 Python enthusiast.<br>
 📚 Estudando desenvolvimento web.
 <div align="center">
