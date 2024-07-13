@@ -3,7 +3,6 @@
 ## 👋 Hello World! Meu nome é Igor
 👨🏻‍💻 Aluno do 7º período de Ciência da Computação da UTFPR/CM.<br>
 🐍 Python enthusiast.<br>
-📚 Estudando desenvolvimento web.
 <div align="center">
   <a href="https://github.com/nuisigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuisigor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
