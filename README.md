@@ -1,8 +1,9 @@
 
 
 ## 👋 Hello World! Meu nome é Igor
-👨🏻‍💻 Aluno do 8º período de Ciência da Computação da UTFPR/CM.<br>
-🐍 Python and ML enthusiast.<br>
+👨🏻‍💻 BSc. Computer Science - UTFPR CM<br>
+👨🏻‍💻 MSc. Student Applied Computing - UTFPR CT<br>
+🐍 Computer Vision and ML enthusiast.<br>
 <div align="center">
   <a href="https://github.com/nuisigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuisigor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
